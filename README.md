@@ -11,4 +11,4 @@
 
 ## 📫 Contact Me
 - Email: mostafaahmedanwer174@gmail.com
-- LinkedIn: [linkedin.com/in/Mostafa Ahmed](https://linkedin.com/in/Mostafa Ahmed)
+- LinkedIn: [linkedin.com/in/Mostafa Ahmed](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mostafa-ahmed-240917303‏)
