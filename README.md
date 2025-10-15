@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa Ahmed
 
-<!--
-**mostafa12ss/mostafa12ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 mobile application Developer | kotlin | React native | c++  
+📍 Based in cairo, Egypt   
+🌱 Currently working on: android app  
+🛠️ Portfolio: [johnsmith.dev](https://johnsmith.dev)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- front: kotlin,c++,flutter,
+- DevOps: Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: mostafaahmedanwer174@gmail.com
+- LinkedIn: [linkedin.com/in/Mostafa Ahmed](https://linkedin.com/in/Mostafa Ahmed)
